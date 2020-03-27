@@ -9,3 +9,6 @@ pa = 0
 d=float(input("Ingrese la distancia a recorrer: "))
 v=int(input("Escoja un tipo de vuelo: Nacional(1) o Internacional(2)"))
 
+if pa<=337250 :
+    p=float(int("Ingrese el peso del producto: "))
+    
